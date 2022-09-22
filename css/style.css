@@ -4,7 +4,7 @@
   padding: 0%;
 }
 
-#drag .box {
+.box {
   background-color: rgb(222, 135, 135);
   padding: 4rem;
   border: 1px solid beige;
